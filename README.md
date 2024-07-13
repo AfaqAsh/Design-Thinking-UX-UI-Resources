@@ -2,7 +2,7 @@ This repository serves as a collection of resources to educate about the design 
 
 # Basics Of Design Thinking
 This section contains resources to familiarize yourself with the design thinking process from scratch.
-## An Introduction To UX Design
+## An Introduction To Human-Centered Design
 Watch the following videos to see what exactly is design thinking and human-centered design.
 1. [What Is Human Centered Design - IDEO](https://www.youtube.com/watch?v=musmgKEPY2o)
 2. [Principles Of Human Centered Design - Don Norman](https://www.youtube.com/watch?v=rmM0kRf8Dbk)
