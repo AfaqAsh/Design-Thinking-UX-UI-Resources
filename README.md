@@ -15,11 +15,11 @@ If you have decided you want to delve deeper into the vast world of human-center
 
 1. [Google UX Design Professional Certificate](https://www.coursera.org/google-certificates/ux-design-certificate?utm_source=google&utm_medium=institutions&utm_campaign=sou--google__med--organicsearch__cam--gwgsite__con--null__ter--null)
 > With a focus on digital design, this comprehensive series of courses focuses on getting the initial skills for a career in UX design. Go with this course if you want to get into a UX job.
-1. [Introduction to Human-Centered Design - AcumenAcademy](https://acumenacademy.org/course/design-kit-human-centered-design/) & [Human-Centered Design 201: Prototyping - AcumenAcademy](https://acumenacademy.org/course/human-centered-design-prototyping/)
+2. [Introduction to Human-Centered Design - AcumenAcademy](https://acumenacademy.org/course/design-kit-human-centered-design/) & [Human-Centered Design 201: Prototyping - AcumenAcademy](https://acumenacademy.org/course/human-centered-design-prototyping/)
 > These courses teaches human centered design more generally and do not place a focus on digital design. Go with this course if you want to learn to research and implement human centered processes in your projects.
-1. [How To Start In UX](https://start.uxdesign.cc/?ref=sidebar)
+3. [How To Start In UX](https://start.uxdesign.cc/?ref=sidebar)
 > This is an excellent collection of structured resources that  offers a free, self-guided class to help you take your first steps into digital product design. It has a good mix of lessons, reading lists, watchlists, and reflections. You can use this a reference point for specific topics or follow it thoroughly.
-1. [Learn UX](https://learnux.io/#courses)
+4. [Learn UX](https://learnux.io/#courses)
 > This is a collection of courses that focuses on major individual aspects of a UX job. Each courses selects a topic to cover through video lessons. You can pick and choose the topics that you feel week in after taking one of the earlier courses.
 
 ### What course should I pick?
